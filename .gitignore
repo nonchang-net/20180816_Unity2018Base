@@ -67,3 +67,7 @@ Thumbs.db
 #vscode
 .vscode
 UnityProject/.vscode/temp.sql
+
+
+# 20180816 incremental compilerのログが毎回変更かかるので追加
+[Ll]ogs/
